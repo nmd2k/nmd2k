@@ -29,13 +29,13 @@
                         src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white">
         </a>
         <!-- Tensorflow -->
-        <a href="https://github.com/manhdung20112000?tab=repositories" target="_blank"><img alt="Python"
+<!--         <a href="https://github.com/manhdung20112000?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
-        </a>
+        </a> -->
         <!-- Numpy -->
-        <a href="https://github.com/manhdung20112000?tab=repositories" target="_blank"><img alt="Python"
+<!--         <a href="https://github.com/manhdung20112000?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
-        </a>
+        </a> -->
         <!-- Docker -->
         <a href="https://github.com/manhdung20112000?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
