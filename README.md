@@ -60,7 +60,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=manhdung20112000&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+        <p><strong>Find me on</strong></p>
         <!-- Gmail -->
         <a href="mailto:manhdung20112000@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
