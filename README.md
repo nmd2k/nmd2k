@@ -15,8 +15,6 @@
         <samp>
                 「 From Hanoi, Vietnam 」
                 <br>
-                「 Student, Computer Science @<b> Unviersity of Technology and Engineering (VNU)</b> 」
-                <br>
                 <br>
         </samp>
         <!-- Programming Languages -->
@@ -64,10 +62,6 @@
         <!-- Gmail -->
         <a href="mailto:manhdung20112000@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/nmd2000" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
         <!--<a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
