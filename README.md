@@ -55,7 +55,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=manhdung20112000&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+                src="https://github-readme-stats.vercel.app/api?username=nmd-2000&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         <br>
         <!-- Social Links -->
         <p><strong>Find me on</strong></p>
