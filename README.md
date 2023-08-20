@@ -5,11 +5,10 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; 👋 Xin chào, World!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/nmd2000">Dung Nguyen Manh</a></b>
+                <b><a target="_blank" href="https://nmd2k.github.io/">Dung Nguyen Manh</a></b>
         </samp>
 </h3>
 <br>
-
 <p align="center">
         <!-- Organisation  -->
         <samp>
@@ -19,31 +18,31 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=for-the-badge&logo=Plex&logoColor=white">
         </a>
         <!-- PyTorch -->
-        <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white">
         </a>
         <!-- Tensorflow -->
-<!--         <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Python"
+<!--         <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
         </a> -->
         <!-- Numpy -->
-<!--         <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Python"
+<!--         <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
         </a> -->
         <!-- Docker -->
-        <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         </a>
         <!-- C++ -->
-        <a href="https://github.com/nmd-2000?tab=repositories" target="_blank"><img alt="C++"
+        <a href="https://github.com/nmd2k?tab=repositories" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         </a>
 </p>
@@ -54,8 +53,8 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=nmd-2000&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        <img alt="NMD2k's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=nmd2k&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         <br>
         <!-- Social Links -->
         <p><strong>Find me on</strong></p>
